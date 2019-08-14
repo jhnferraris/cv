@@ -1,0 +1,70 @@
+@import '~bootstrap/scss/bootstrap';
+
+body {
+  display: block;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #333;
+  background-color: #fff;
+}
+
+.container {
+  @media (min-width: 1200px) {
+    width: 1170px;
+  }
+
+  // Small devices (landscape phones, 576px and up)
+  @media (min-width: 576px) {
+    width: 400px;
+  }
+
+  // Medium devices (tablets, 768px and up)
+  @media (min-width: 768px) {
+    width: 600px;
+  }
+
+  // Large devices (desktops, 992px and up)
+  @media (min-width: 992px) {
+    width: 1170px;
+  }
+
+  padding-top: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  .header {
+    display: flex; /* make the row a flex container */
+    align-items: center; /* vertically center each flex item in the container */
+  }
+
+  .subheader-title {
+    font-size: 18px;
+  }
+  .mobile-link,
+  .email-link,
+  .github-link,
+  .linkedin-link {
+    padding-right: 5px;
+    font-size: 18px;
+  }
+
+  .degree,
+  .position {
+    color: #4b4f4c;
+  }
+  .school,
+  .work-time {
+    color: grey;
+  }
+
+  .tech-header {
+    text-align: center;
+  }
+
+  .calling-card {
+    padding-bottom: 15px;
+  }
+  .education-block {
+    padding-bottom: 20px;
+  }
+}

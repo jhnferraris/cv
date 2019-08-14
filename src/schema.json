@@ -1,0 +1,50 @@
+{
+  "primaryInfo": {
+    "name": "John Michael Ferraris",
+    "email": "johnmichaelferraris@gmail.com",
+    "githubUrl": "https://github.com/jhnferraris",
+    "linkedInUrl": "https://www.linkedin.com/in/johnferraris/"
+  },
+  "workExperience": [
+    {
+      "company": "mClinica",
+      "role": "Full Stack Developer",
+      "timeline": "Jan 2019 - present"
+    },
+    {
+      "company": "Alorica",
+      "role": "Lead Software Engineer",
+      "timeline": "Nov 2017 - Dec 2018"
+    },
+    {
+      "company": "WOTBOT Pty. Ltd.",
+      "role": "API Lead Developer",
+      "timeline": "Jan 2017 - Aug 2017"
+    },
+    {
+      "company": "Satoshi Citadel Industries",
+      "role": "Web Technology Lead",
+      "timeline": "Jul 2016 - Jan 2017"
+    },
+    {
+      "company": "Lifebit",
+      "role": "Lead Web Developer",
+      "timeline": "Jun 2015 - Jan 2017"
+    },
+    {
+      "company": "Lifebit",
+      "role": "Web Developer",
+      "timeline": "May 2013 - Jun 2015"
+    }
+  ],
+  "educationalAttainment": [
+    {
+      "school": "University of the Philippines Mindanao",
+      "degree": "Master in Management"
+    },
+    {
+      "school": "University of the Philippines Mindanao",
+      "degree": "Bachelor of Science in Computer Science"
+    }
+  ]
+}
